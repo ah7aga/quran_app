@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_localizations:
     sdk: flutter
+  google_fonts: ^6.3.3
 
 dev_dependencies:
   flutter_test:
@@ -55,13 +56,8 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   uses-material-design: true
-  fonts:
-    - family: CustomFont
-      fonts:
-        - asset: assets/fonts/NotoNastaliqUrdu-Regular.ttf
   assets:
     - assets/
-
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
