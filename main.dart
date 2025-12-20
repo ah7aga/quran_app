@@ -305,7 +305,7 @@ class _sabha extends State<sabha> {
         icon: Image.network(
           'https://cdn-icons-png.flaticon.com/128/9899/9899372.png',
           scale: 4,
-          color: const Color(0xff0051FF),
+          color:  const Color.fromARGB(255, 255, 255, 255),
         ),
       ),
     ),
